@@ -1,0 +1,17 @@
+.container{
+height:100%;
+width:100%;
+background-color: burlywood;
+}
+.card{
+    margin-top: auto;
+    text-align: center;
+    height: auto;
+    width:50%;
+
+
+}
+div{
+margin-bottom: 10px;
+
+}
